@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+   <head>
+  <meta charset="utf-8">
+  <title>Datto Backupify - Cloud to Cloud Backup</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="robots" content="index,follow">
+
+  <link rel="shortcut icon" href="http://www.datto.com/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="http://www.datto.com/css/main.css">
+  <link rel="stylesheet" href="http://www.datto.com/css/datto-additions.css">
+  <link rel="canonical" href="http://www.datto.com/backupify">
+  
+  <meta property="og:url" content="http://www.datto.com/backupify">
+  <meta property="og:title" content="Datto Backupify - Cloud to Cloud Backup">
+  <meta property="og:image" content="">
+
+  <script src="http://www.datto.com/js/main.js" async></script>
+
+  <script src="//use.typekit.net/hrf0wzt.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+</head>
+    <body>
+    <script src="//cdn.optimizely.com/js/204727737.js"></script>
+        <div class="cover"></div>
+        <div class="main-wrapper">
+            <div class="head ">
+  <a href="/" class="logo">
+    <img src="http://www.datto.com/img/logo-white.svg" height="34" width="104" alt="" class="logo__img">
+    <img src="http://www.datto.com/img/logo-blue.svg" height="34" width="104" alt="" class="logo__img_blue">
+  </a>
+  
+    <a href="/request" class="viewdemo view-demo header">Request Demo</a>
+  
+  <a href="" class="menu j-menu_open">
+    <span class="menu__ico">
+      <span class="menu__ico__img"></span>
+      <span class="menu__ico__img_blue"></span>
+    </span>
+    <span class="menu__txt">Menu</span>
+  </a>
+</div>
+<!-- head  // -->
+
+<nav class="navigate">
+	<div class="navigate-oh">
+    <div class="navigate-prod">
+      <a href="/alto" class="navigate-prod__itm">
+        <span class="navigate-prod__name">ALTO</span>
+        <span class="navigate-prod__desc"></span>
+      </a>
+      <a href="/siris" class="navigate-prod__itm">
+        <span class="navigate-prod__name">SIRIS</span>
+        <span class="navigate-prod__desc"></span>
+      </a>
+      <a href="/nas" class="navigate-prod__itm">
+        <span class="navigate-prod__name">DATTO NAS</span>
+        <span class="navigate-prod__desc"></span>
+      </a>
+      <a href="/backupify" class="navigate-prod__itm">
+        <span class="navigate-prod__name">BACKUPIFY</span>
+        <span class="navigate-prod__desc"></span>
+      </a>
+    </div>
+    <!-- navigate-prod // -->
+    <ul class="navigate-site">
+      <li class="navigate-site__itm"><a href="https://partners.dattobackup.com/" class="navigate-site__lnk" target="_blank">Partner Login</a></li>
+      <li class="navigate-site__itm"><a href="/support" class="navigate-site__lnk">Technical Support</a></li>
+      <li class="navigate-site__itm"><a href="/products" class="navigate-site__lnk">Products</a></li>
+      <li class="navigate-site__itm"><a href="/technologies/inverse-chain-technology" class="navigate-site__lnk">Technologies</a></li>
+      <li class="navigate-site__itm"><a href="/genisis" class="navigate-site__lnk">Conversion Tool</a></li>
+      <li class="navigate-site__itm"><a href="/partners" class="navigate-site__lnk">Partners</a></li>
+      <li class="navigate-site__itm"><a href="http://www.datto.com/careers" class="navigate-site__lnk">Careers</a></li>
+      <li class="navigate-site__itm"><a href="/resources" class="navigate-site__lnk">Resources</a></li>
+      <li class="navigate-site__itm"><a href="/training" class="navigate-site__lnk">Training</a></li>
+      <li class="navigate-site__itm"><a href="/news" class="navigate-site__lnk">News</a></li>
+      <li class="navigate-site__itm"><a href="/events" class="navigate-site__lnk">Events</a></li>
+      <li class="navigate-site__itm"><a href="/about" class="navigate-site__lnk">About</a></li>
+      <li class="navigate-site__itm"><a href="/blog" class="navigate-site__lnk">Blog</a></li>
+      <li class="navigate-site__itm"><a href="/contact" class="navigate-site__lnk">Contact Us</a></li>
+    </ul>
+    <!-- navigate-site // -->
+    
+    <div class="navigate-soc">
+      <a href="https://www.facebook.com/dattoinc" class="navigate-soc__itm" target="_blank"><img src="http://www.datto.com/img/soc_ic_2.png" alt="" class="navigate-soc__img"></a>
+      <a href="https://twitter.com/datto" class="navigate-soc__itm" target="_blank"><img src="http://www.datto.com/img/soc_ic_1.png" alt="" class="navigate-soc__img"></a>
+      <a href="https://www.linkedin.com/company/datto-inc-" class="navigate-soc__itm" target="_blank"><img src="http://www.datto.com/img/soc_ic_3.png" alt="" class="navigate-soc__img"></a>
+      <a href="https://plus.google.com/108292366419623632143/about" class="navigate-soc__itm" target="_blank"><img src="http://www.datto.com/img/soc_ic_4.png" alt="" class="navigate-soc__img"></a>
+      <a href="http://community.spiceworks.com/pages/datto" class="navigate-soc__itm" target="_blank"><img src="http://www.datto.com/img/soc_ic_5.png" alt="" class="navigate-soc__img"></a>
+    </div>
+    
+  </div>
+</nav>
+        <div class="backupify">
+
+            <!-- visual -->
+            <div class="oh">
+                <div class="visual visual_backupify">
+
+                    <div class="paralax layer left one shifted-up" data-shift="-35"></div>
+                    <div class="paralax layer left two shifted-up" data-shift="35"></div>
+                    <div class="paralax layer right one shifted-up" data-shift="-35"></div>
+                    <div class="paralax layer right two shifted-up" data-shift="35"></div>
+                    
+                    <div class="visual__txt-bx">
+                        <h2 class="visual__txt-bx__h">BACKUPIFY
+                            <span class="visual__h__sign">CLOUD-TO-CLOUD BACKUP</span>
+                        </h2>
+                        <a class="freetrial__but" href="/backupify/free-trial" style="margin-bottom: 12px;">Try It Free</a><br />
+                        <a href="https://sso.backupify.com/login?service=https%3A%2F%2Fapp.backupify.com%2Flogin" style="margin-bottom: 0; font-size: 16px; color: white;">(Existing Customers Login Here)</a>
+                        <img src="http://www.datto.com/img/prod_4.jpg" class="visual_backupify__img" height="500" width="529" alt="">
+                         <p class="visual__slogan2">Datto Backupify is the leading cloud-to-cloud backup and recovery solution for software-as-a-service applications, including Google Apps, Office 365, and Salesforce. Nearly two million business customers rely on Backupify.</p>
+                    </div>
+                </div>
+                
+            </div>
+            <!-- visual // -->
+
+            <div class="backup-stats-bx">
+                <div class="widther1">
+                    <div class="row backup-stats">
+                        <div class="col-md-3 backup-stats-itm">
+                            <svg class="backup-stats__ico backup-stats__ico_1"
+                            data-icon="/img/icons_parts/ic_protected.svg"
+                                 data-back-color="#ce55c9"
+                                 data-front-color="#b747cd"></svg>
+                            <span class="backup-stats__num">OVER 3PB</span>
+                            <span class="backup-stats__name">We protect over 3 petabytes of data</span>
+                        </div>
+                         <div class="col-md-3 col-sm-6 backup-stats-itm">
+                            <svg class="backup-stats__ico backup-stats__ico_2"
+                                 data-icon="/img/icons_parts/ic_clock.svg"
+                                 data-back-color="#46b5b4"
+                                 data-front-color="#45a1b4"></svg>
+                            <span class="backup-stats__num">1.3 SEC</span>
+                            <span class="backup-stats__name">We restore 1 file every 1.3 seconds</span>
+                        </div>
+                        <div class="col-md-3 backup-stats-itm">
+                            <svg class="backup-stats__ico backup-stats__ico_3"
+                                 data-icon="/img/icons_parts/ic_houses.svg"
+                                 data-back-color="#ee922a"
+                                 data-front-color="#f07b2a"></svg>
+                            <span class="backup-stats__num">8,000</span>
+                            <span class="backup-stats__name">Companies protect data with Backupify</span>
+                        </div>
+                        <div class="col-md-3 backup-stats-itm">
+                            <svg class="backup-stats__ico backup-stats__ico_4"
+                                 data-icon="/img/icons_parts/ic_user.svg"
+                                 data-back-color="#a8c228"
+                                 data-front-color="#7ab12b"></svg>
+                            <span class="backup-stats__num">2,000,000</span>
+                            <span class="backup-stats__name">2,000,000 users protected</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="backup-pros">
+                <div class="row">
+                    <div class="backup-pros-itm col-sm-6 col-md-6">
+                        <img src="http://www.datto.com/img/google.svg" class="backup-pros__img" alt="">
+                        <div class="backup-pros-fl">
+                            <h2 class="backup-pros__h">Google Apps</h2>
+                            <p class="backup-pros__txt">Protect emails, documents, calendars, sites, and contacts</p>            
+                            <a href="backupify/google-apps-backup" class="backup-pros__but">More Info</a>
+                        </div>
+                    </div>
+                    <div class="backup-pros-itm col-sm-6 col-md-6">
+                        <img src="http://www.datto.com/img/o365.svg" class="backup-pros__img" alt="">
+                        <div class="backup-pros-fl">
+                            <h2 class="backup-pros__h">Office 365</h2>
+                            <p class="backup-pros__txt">Protect files, folders, emails, contacts, and calendars in Microsoft Office 365</p>                      
+                            <a href="backupify/office-365-backup" class="backup-pros__but">More Info</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="backup-pros-itm col-sm-6 col-md-6">
+                        <img src="http://www.datto.com/img/salesforse.svg" class="backup-pros__img" alt="">
+                        <div class="backup-pros-fl">
+                            <h2 class="backup-pros__h">Salesforce</h2>
+                            <p class="backup-pros__txt">Protect objects, custom objects, attachments, files, metadata, and Chatter messages.</p>            
+                            <a href="backupify/salesforce-backup" class="backup-pros__but">More Info</a>
+                        </div>
+                    </div>
+                    <div class="backup-pros-itm col-sm-6 col-md-6">
+                        <img src="http://www.datto.com/img/like.svg" class="backup-pros__img" alt="">
+                        <div class="backup-pros-fl">
+                            <h2 class="backup-pros__h">Social Media</h2>
+                            <p class="backup-pros__txt">Protect corporate Twitter accounts and Facebook Business Pages.</p>            
+                            <a href="backupify/social-media-apps-backup" class="backup-pros__but">More Info</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="everyone">
+                <div class="everyone-bx">
+                    <h2 class="everyone__h">EVERYONE TO THE CLOUD</h2>
+                    <p class="everyone__txt">Shareable, portable, efficient — companies all over the world are rushing to take full advantage of the benefits of cloud computing. Join them with complete confidence. Backupify is here for you, ready to make sure all your irreplaceable cloud data is backed up, secure and ready to retrieve.</p>
+
+                    <p class="everyone__txt">Our daily quest is to bring peace-of-mind to IT managers responsible for keeping business-critical data safe from human error, technology crashes and malevolent intrusions. When you can't control what will happen, protection is your best and only defense. And no one protects your cloud data better than we do.</p>
+                    <a href="/cloud-to-cloud-backup" class="everyone__but" target="_blank">Learn More</a>
+                </div>
+            </div>
+            <!-- everyone // -->
+            
+            <!-- briefsquare -->
+            <div class="brisquare">
+                 <div class="brisquare__row">
+                    <div class="brisquare__cell bg3" style="background: url('http://www.datto.com/img/bfy_interior/CaseForCloudToCloud.jpg') 0 0 no-repeat; background-size: cover;">
+                        <div class="brisquare-itm brisquare_bg">
+                            <h3 class="brisquare__h2">Making The Case For Cloud-to-Cloud Backup</h3>
+                            <p class="brisquare__txt">As more businesses increase their use of Software-as-a-Service (SaaS) applications, it’s important to be aware of one essential thing: just because data is in the cloud, does not mean it’s safe. Still skeptical? Get the facts about cloud data (and the need to back it up) in this free eBook.
+
+</p>
+                            <a href="/resources/making-the-case-for-cloud-to-cloud-backup" class="brisquare__but" >Download</a>
+                        </div>
+                    </div>
+                    <div class="brisquare__cell bg4" style="background: url('http://www.datto.com/img/bfy_interior/O365Security.jpg') 0 0 no-repeat;">
+                        <div class="brisquare-itm brisquare_blog">
+                            <h3 class="brisquare__h2">The Complete Guide to Office 365 Security</h3>
+                            <p class="brisquare__txt">Office 365 security requires a constant effort to monitor, maintain, report and verify. The eBook presents a single, comprehensive overview of the data security measures available within the Office 365 platform. And gives you a baseline from which to build your information management strategy.</p>
+                            <a href="/resources/the-complete-guide-to-office-365-security" class="brisquare__but">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- briefsquare // -->
+        </div>
+       <!-- PRODUCTS // -->
+<div class="footer">
+	<div class="widther1">
+		<h2 class="footer__h">Protecting business data, no matter where it lives.</h2>
+		<div class="footer__table row">
+			<div class="footer__cell col-md-2">
+				<h3 class="footer__cell__h">COUNTRY</h3>
+				<div class="footer__cell__tbl">
+					<a href="http://www.datto.com" class="footer__cell__lnk">United States</a>
+					<a href="http://www.dattobackup.ca" class="footer__cell__lnk" target="_blank">Canada</a>
+					<a href="http://www.datto.co.uk" class="footer__cell__lnk" target="_blank">United Kingdom</a>
+				</div>
+			</div>
+			<div class="footer__cell col-md-2">
+				<h3 class="footer__cell__h">PRODUCTS</h3>
+				<div class="footer__cell__tbl">
+					<a href="/alto" class="footer__cell__lnk">ALTO</a>
+					<a href="/siris" class="footer__cell__lnk">SIRIS</a>
+					<a href="/nas" class="footer__cell__lnk">Datto NAS</a>
+					<a href="/backupify" class="footer__cell__lnk">Backupify</a>
+				</div>
+			</div>
+			<div class="footer__cell col-md-2">
+				<h3 class="footer__cell__h">LEARN MORE</h3>
+				<div class="footer__cell__tbl">
+					<a href="/about" class="footer__cell__lnk">About Datto</a>
+					<a href="/news" class="footer__cell__lnk">News</a>
+					<a href="http://www.datto.com/careers" class="footer__cell__lnk">Careers</a>
+					<a href="/privacy-policy" class="footer__cell__lnk">Privacy Policy</a>
+					<a href="/terms-of-use" class="footer__cell__lnk">Terms of Use</a>
+				</div>
+			</div>
+			<div class="footer__cell col-md-2">
+				<h3 class="footer__cell__h">CONTACT</h3>
+				
+				<div class="footer__cell__tbl">
+					<span class="footer__cell__addr">101 Merritt 7, 7th Floor</span>
+					<span class="footer__cell__addr">Norwalk, CT 06851</span>
+					<span class="footer__cell__addr">United States</span>
+					<span class="footer__cell__addr">(888) 995-1431</span>
+					<a href="mailto:contact@datto.com" class="footer__cell__lnk">contact@datto.com</a>
+				</div>
+				
+			</div>
+			<div class="footer__cell col-md-2">
+				<h3 class="footer__cell__h">CONNECT</h3>
+				<div class="footer__cell__tbl">
+					<a href="http://facebook.com/dattoinc" class="footer__cell__lnk" target="_blank">Facebook</a>
+					<a href="http://twitter.com/datto" class="footer__cell__lnk" target="_blank">Twitter</a>
+					<a href="http://www.linkedin.com/company/datto-inc-" class="footer__cell__lnk" target="_blank">LinkedIn</a>
+					<a href="http://plus.google.com/108292366419623632143/about" class="footer__cell__lnk" target="_blank">Google+</a>
+					<a href="http://community.spiceworks.com/pages/datto" class="footer__cell__lnk" target="_blank">Spiceworks</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- w1 -->
+</div>
+<!-- footer -->
+
+<script src="http://www.datto.com/js/datto-additions.min.js" type="text/javascript"></script>
+
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJWP49"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJWP49');</script>
+<!-- End Google Tag Manager -->
+        
+        </body>
+        </html>

@@ -27,7 +27,8 @@
     "sanitize-filename": "^1.5.3",
     "shelljs": "^0.7.0",
     "swagger-methods": "^1.0.0",
-    "urijs": "^1.16.1"
+    "urijs": "^1.16.1",
+    "snyk": "^1.317.0"
   },
   "private": true,
   "repository": {
@@ -36,6 +37,9 @@
   },
   "scripts": {
     "test": "scripts/collection.js validate",
-    "deploy": "scripts/deploy.js && ./scripts/deploy_badges.js && gulp publish"
-  }
+    "deploy": "scripts/deploy.js && ./scripts/deploy_badges.js && gulp publish",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
